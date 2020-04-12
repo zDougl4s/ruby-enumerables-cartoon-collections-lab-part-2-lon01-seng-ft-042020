@@ -16,8 +16,9 @@ end
 
 def long_planeteer_calls(planeteer_calls)
   # Use an Enumerable to check if any string in the passed in array is greater than 4 characters long
-  planeteer_calls.any? do |i,i.length!= 4|
-    
+  planeteer_calls.any? do |i|
+
+
    end
   # Return the boolean result of this check
 end
